@@ -1,0 +1,1 @@
+# Print multiplication table using nested loop.

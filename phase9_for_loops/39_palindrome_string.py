@@ -1,10 +1,13 @@
-Take a string and print each character.
-Count number of characters in a string.
-Count vowels in a string.
-Count consonants in a string.
-Reverse a string using loop.
-Print string in uppercase using loop.
-Print each character with its index.
-Count occurrence of a specific character.
-Check if string is palindrome.
-Remove spaces from a string.
+# Check if string is palindrome.
+
+s = input("enter the string : ")
+rev = ""
+
+for ch in s:
+    rev = ch + rev
+
+if s == rev:
+    print("palindrome")
+
+else:
+    print("not palindrome")

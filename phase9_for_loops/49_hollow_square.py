@@ -1,0 +1,1 @@
+# Print hollow square pattern.

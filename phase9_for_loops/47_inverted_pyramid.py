@@ -1,0 +1,1 @@
+# Print inverted pyramid.
