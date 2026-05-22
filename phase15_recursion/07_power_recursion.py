@@ -1,0 +1,10 @@
+# Find power of a number a^b
+# a^b = a × a^b−1
+
+def power(a,b):
+    if b == 0:
+        return 1
+    
+    return a * power(a,b-1)
+
+print(power(2,3))
