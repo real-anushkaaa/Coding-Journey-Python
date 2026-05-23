@@ -1,0 +1,1 @@
+# Compress repeated elements.
