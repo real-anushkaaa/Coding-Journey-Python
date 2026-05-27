@@ -1,1 +1,0 @@
-# Create voting system.

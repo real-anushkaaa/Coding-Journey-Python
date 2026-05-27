@@ -1,1 +1,0 @@
-# Shuffle list manually.

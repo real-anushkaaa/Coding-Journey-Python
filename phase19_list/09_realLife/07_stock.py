@@ -1,1 +1,0 @@
-# Create inventory manager.
