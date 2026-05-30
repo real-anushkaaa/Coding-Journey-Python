@@ -1,0 +1,11 @@
+"""
+Question:
+Check whether one set is subset of another.
+"""
+
+# Write your code here
+
+A = {1, 2}
+B = {1, 2, 3, 4}
+
+print(A.issubset(B))
