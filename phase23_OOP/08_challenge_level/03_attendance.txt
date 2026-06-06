@@ -1,0 +1,2 @@
+Question:
+Create a class Attendance to calculate attendance percentage.

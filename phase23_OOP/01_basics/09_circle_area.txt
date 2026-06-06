@@ -1,0 +1,2 @@
+Question:
+Create a class Circle with a method to calculate area.

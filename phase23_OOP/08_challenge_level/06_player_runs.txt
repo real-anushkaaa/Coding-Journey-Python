@@ -1,0 +1,2 @@
+Question:
+Create a class Player and maintain total runs scored by all players.

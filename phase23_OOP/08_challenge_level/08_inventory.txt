@@ -1,0 +1,2 @@
+Question:
+Create a class Inventory to manage product stock.

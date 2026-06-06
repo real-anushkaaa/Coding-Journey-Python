@@ -1,0 +1,2 @@
+Question:
+Create a class Movie that stores movie name and rating.
