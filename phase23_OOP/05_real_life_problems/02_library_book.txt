@@ -1,2 +1,0 @@
-Question:
-Create a class LibraryBook to issue and return books.

@@ -1,2 +1,0 @@
-Question:
-Create a class Temperature with a method to convert Celsius to Fahrenheit.

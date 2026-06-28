@@ -1,2 +1,0 @@
-Question:
-Create a class UniversityStudent that stores academic details and calculates CGPA.

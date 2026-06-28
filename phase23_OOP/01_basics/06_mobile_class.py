@@ -1,0 +1,2 @@
+# Question:
+# Create a class Mobile and create three different objects.

@@ -1,2 +1,0 @@
-Question:
-Create a class Employee with a method to calculate annual salary.

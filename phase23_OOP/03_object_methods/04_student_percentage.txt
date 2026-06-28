@@ -1,2 +1,0 @@
-Question:
-Create a class Student with a method to calculate percentage.

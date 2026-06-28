@@ -1,2 +1,0 @@
-Question:
-Create a class Invoice to generate a customer bill.

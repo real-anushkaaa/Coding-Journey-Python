@@ -1,0 +1,2 @@
+# Question:
+# Take employee salary and calculate yearly salary.

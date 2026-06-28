@@ -1,2 +1,0 @@
-Question:
-Create a class HotelRoom to check room availability.

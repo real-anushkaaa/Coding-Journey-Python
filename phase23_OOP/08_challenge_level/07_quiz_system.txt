@@ -1,2 +1,0 @@
-Question:
-Create a class Quiz that stores questions and checks answers.

@@ -1,2 +1,0 @@
-Question:
-Create a class Time to store hours, minutes, and seconds.

@@ -1,2 +1,0 @@
-Question:
-Create a class RestaurantOrder to calculate total bill.
